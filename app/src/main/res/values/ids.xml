@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="group_loader" type="id" />
+    <item name="id_loader" type="id" />
+    <item name="query_loader" type="id" />
+</resources>

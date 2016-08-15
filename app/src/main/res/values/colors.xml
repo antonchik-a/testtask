@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="light_gray_color">#9a9a9a</color>
+
+    <!-- main color for drawable/ripple -->
+    <color name="colorHighlightPress">#77FF4081</color>
+    <color name="colorHighlightFocus">#CCFF4081</color>
+</resources>
